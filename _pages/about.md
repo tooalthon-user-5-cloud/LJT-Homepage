@@ -44,9 +44,7 @@ A complete list of my publications is also available in the [Publications]({{ "/
 
 ## Skills
 
-- **Natural Language Processing**: large language models, fine-tuning, fitting generation, model evaluation making
-- **Machine Learning**: reinforcement learning, LLMs, research practice
-- **Knowledge areas**: LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models; LLM Truthfulness and Interpretability
+- **Research Areas**: Natural Language Processing; Machine Learning; LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models; LLM Truthfulness and Interpretability
 
 ## Contact
 
@@ -55,4 +53,4 @@ A complete list of my publications is also available in the [Publications]({{ "/
 - **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ)
 - **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
 
-I am actively looking for post‑doctoral and research opportunities to work on LLMs, reinforcement learning, and hallucination mitigation.
+I am actively looking for post-doctoral and research opportunities in the areas above.
