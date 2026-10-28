@@ -15,18 +15,13 @@ My research focuses on **natural language processing and machine learning**, com
 ## Education
 
 - **Hong Kong University of Science and Technology** — Ph.D. in Computer Science, **2024–Present**
-  Institutional affiliation: HKUST NLP Group, supervised by Professor Junxian He
+  HKUST NLP Group under the supervision of Professor Junxian He
 
 - **Shanghai Jiao Tong University (SJTU)** — B.Eng. in Computer Science, **2020–2024**
-  Graduated in June 2024 · Received the **Zhiyuan Honor Scholarship** in recognition of academic excellence
+  Graduated in June 2024 · Received the **Zhiyuan Honor Scholarship**
 
 ## Research Experience
 
-- **Research Intern — MINIMAX**
-  February 2025 – Present
-
-- **Research Intern — Tencent WXG**
-  June 2024 – September 2024
-
-- **Research Intern — Shanghai AI Lab**
-  June 2023 – December 2023
+- **Research Intern — MINIMAX**, February 2025 – Present
+- **Research Intern — Tencent WXG**, June 2024 – September 2024
+- **Research Intern — Shanghai AI Lab**, June 2023 – December 2023
